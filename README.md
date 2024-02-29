@@ -1,2 +1,1 @@
-# andrew-rd.github.io
-Hello world
+# andrew.github.io
